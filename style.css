@@ -1,0 +1,45 @@
+#image1 {
+  width: 600px;
+  display: block;
+  margin: 20px auto;
+}
+
+h1 {
+  color: red;
+  text-align: start;
+}
+p{
+  color: blue;
+}
+a{
+  text-decoration: none;
+  color:darkblue;
+}
+img{
+  width: 200px;
+  height: 300px;
+}
+div{
+   background-color: #ffffff;          /* White background */
+  padding: 20px;                      /* Space inside */
+  border-radius: 12px;                /* Rounded corners */
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1); /* Soft shadow */
+  width: 300px;                   /* Optional width */
+  font-family: Arial, sans-serif;  
+  display: block; 
+  margin-right: 50px;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: column;
+
+}
+section{
+  display: flex;
+  flex-direction: row;
+  
+  justify-self: center;
+
+}
+body{
+  background-color: black;
+}
