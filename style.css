@@ -10,8 +10,11 @@ h1 {
 }
 p{
   color: blue;
-  margin-left: 250px;
+  margin-left: 35px;
+  text-align: center;
 }
+
+
 a{
   text-decoration: none;
   color:darkblue;
